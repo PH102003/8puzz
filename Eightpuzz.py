@@ -1,6 +1,6 @@
 import NodeState
 
-class EightPuzz:
+class Eightpuzz:
     def __init__(self, initial_state):
         # inicializa o estado inicial do quebra-cabeça e o estado objetivo
         self.initial_state = NodeState(initial_state)  # cria uma nova instância de NodeState com o estado inicial
